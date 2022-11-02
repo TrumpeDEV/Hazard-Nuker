@@ -9,4 +9,4 @@ pylibcheck
 pyinstaller
 psutil
 keyboard
-httpx
+pyhints
