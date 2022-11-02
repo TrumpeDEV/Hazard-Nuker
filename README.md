@@ -1,4 +1,4 @@
-# Hazard Nuker by Rdimo0
+# Hazard Nuker by TrumpeDev
 #### Hazard Nuker was made with
 Love ❌ <br>
 Code ✅
